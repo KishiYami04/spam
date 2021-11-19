@@ -2,7 +2,7 @@ import time , sys , os
 os.system("clear")
 print("\033[1;96m===Welcome to Kishi Spam===")
 print("")
-print("1;96m====== Menu ======")
+print("====== Menu ======")
 print("\033[1;95m[1] \033[1;92mยิงเบอร์.v1")
 print("\033[1;95m[2] \033[1;92mยิงเบอร์v.2")
 print("\033[1;95m[3] \033[1;92mยิงเมล")
